@@ -1,0 +1,2 @@
+(this["webpackJsonpreact_product-categories-practice"]=this["webpackJsonpreact_product-categories-practice"]||[]).push([[0],{3:function(t,e){},5:function(t,e,c){"use strict";c.r(e);c(0);var r=c(2),o=c.n(r),p=(c(10),c(11),c(3)),a=c(4);o.a.render(Object(a.jsx)(p.App,{}),document.getElementById("root"))}},[[5,1,2]]]);
+//# sourceMappingURL=main.67bed419.chunk.js.map
